@@ -1,0 +1,29 @@
+{
+  "sensor": [
+    {
+      "id": 1,
+      "status": 1,
+      "type": 0
+    },
+    {
+      "id": 2,
+      "status": 1,
+      "type": 1
+    },
+    {
+      "id": 3,
+      "status": 0,
+      "type": 2
+    }
+  ],
+  "temphum": [
+    {
+      "value": 35,
+      "type": 0
+    },
+    {
+      "value": 33,
+      "type": 1
+    }
+  ]
+}
